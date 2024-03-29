@@ -1,0 +1,568 @@
+Country,Fuel Type,Car Type,Car Brand,Car Name
+Japan,Petrol,SUV,Toyota,Fortuner
+Japan,Diesel,MPV,Maruti Suzuki,Ertiga
+Japan,Petrol,Sedan,Toyota,Camry
+Japan,Hybrid,SUV,Toyota,RAV4
+Japan,Diesel,Hatchback,Toyota,Yaris
+Japan,Electric,Sedan,Toyota,Prius
+Japan,Petrol,MPV,Toyota,Innova Crysta
+Japan,Hybrid,Sedan,Toyota,Avalon Hybrid
+Japan,Petrol,Coupe,Toyota,86
+Japan,Diesel,SUV,Toyota,Land Cruiser
+Japan,Hybrid,Hatchback,Toyota,Corolla Hybrid
+Japan,Electric,SUV,Toyota,bZ4X
+Japan,Petrol,SUV,Toyota,Harrier
+Japan,Hybrid,Sedan,Toyota,Crown
+Japan,Electric,Compact,Toyota,C-HR EV
+Japan,Diesel,Truck,Toyota,Hilux
+Japan,Hybrid,Crossover,Toyota,Venza
+Japan,Petrol,Crossover,Toyota,Rush
+Japan,Hybrid,MPV,Toyota,Estima Hybrid
+Japan,Diesel,SUV,Toyota,Innova Hycross
+Japan,Petrol,Hatchback,Toyota,Wigo
+Japan,Hybrid,Sedan,Toyota,Corolla Axio
+Japan,Electric,MPV,Toyota,Proace Verso Electric
+Japan,Petrol,Coupe,Toyota,Supra
+Japan,Hybrid,SUV,Toyota,Urban Cruiser Hyryder
+Japan,Petrol,Sedan,Toyota,Yaris Ativ
+Japan,Diesel,Truck,Toyota,Dyna
+Japan,Petrol,Sedan,Toyota,Century
+Japan,Hybrid,SUV,Toyota,RAV4 Prime
+Japan,Petrol,Sports,Toyota,GR Yaris
+Japan,Diesel,Commercial,Toyota,Coaster
+UK,Petrol,Coupe,Aston Martin,DB11
+UK,Petrol,Convertible,Aston Martin,Vantage Roadster
+UK,Petrol,Sports,Aston Martin,DBS Superleggera
+UK,Petrol,Grand Tourer,Aston Martin,DBX
+UK,Hybrid,Hypercar,Aston Martin,Valhalla
+UK,Petrol,Grand Tourer,McLaren,GT
+UK,Petrol,Sports Car,McLaren,765LT
+UK,Hybrid,Supercar,McLaren,Artura
+UK,Petrol,Track Focused,McLaren,Senna
+UK,Petrol,Open Top,McLaren,Elva
+UK,Petrol,Supercar,McLaren,570S
+UK,Petrol,Coupe,McLaren,620R
+UK,Hybrid,Supercar,McLaren,P1
+UK,Petrol,Supercar,McLaren,F1
+UK,Petrol,Sports Car,McLaren,540C
+UK,Petrol,Luxury Sedan,Rolls-Royce,Ghost
+UK,Petrol,Coupe,Rolls-Royce,Wraith
+UK,Petrol,Convertible,Rolls-Royce,Dawn
+UK,Petrol,Luxury SUV,Rolls-Royce,Cullinan
+UK,Electric,Concept,Rolls-Royce,Spectre
+UK,Petrol,Luxury Sedan,Bentley,Flying Spur
+UK,Petrol,Grand Tourer,Bentley,Bentayga
+UK,Petrol,Coupe,Bentley,Continental GT
+UK,Petrol,Convertible,Bentley,Continental GTC
+UK,Hybrid,SUV,Bentley,Bentayga Hybrid
+UK,Petrol,Sedan,Jaguar,XE
+UK,Petrol,Coupe,Jaguar,F-Type
+UK,Diesel,SUV,Jaguar,F-Pace
+UK,Electric,SUV,Jaguar,I-Pace
+UK,Petrol,Sedan,Jaguar,XF
+UK,Diesel,Estate,Jaguar,XF Sportbrake
+UK,Petrol,Convertible,Jaguar,XK
+UK,Hybrid,SUV,Jaguar,E-Pace
+UK,Petrol,Sports Car,Jaguar,XKR
+UK,Petrol,Luxury Sedan,Jaguar,XJ
+UK,Diesel,SUV,Land Rover,Defender
+UK,Petrol,SUV,Range Rover,Evoque
+UK,Hybrid,SUV,Range Rover,Sport PHEV
+UK,Diesel,SUV,Land Rover,Discovery
+UK,Electric,SUV,Range Rover,Velar Electric
+UK,Petrol,SUV,Range Rover,Range Rover
+UK,Diesel,SUV,Land Rover,Discovery Sport
+UK,Hybrid,SUV,Range Rover,Range Rover Evoque PHEV
+UK,Petrol,SUV,Land Rover,Freelander
+UK,Diesel,SUV,Range Rover,Range Rover Velar
+UK,Petrol,Hatchback,Mini,Cooper
+UK,Electric,Hatchback,Mini,Cooper SE
+UK,Petrol,Convertible,Mini,Cooper Convertible
+UK,Petrol,SUV,Mini,Countryman
+UK,Diesel,Hatchback,Mini,Cooper D
+Germany,Petrol,Sedan,BMW,3 Series
+Germany,Electric,SUV,BMW,iX3
+Germany,Diesel,Wagon,BMW,5 Series Touring
+Germany,Hybrid,Sedan,BMW,7 Series Hybrid
+Germany,Petrol,Coupe,BMW,4 Series
+Germany,Petrol,Hatchback,BMW,1 Series
+Germany,Diesel,SUV,BMW,X5
+Germany,Hybrid,Sedan,BMW,5 Series Hybrid
+Germany,Petrol,SUV,BMW,X3
+Germany,Electric,Hatchback,BMW,i3
+Germany,Petrol,Coupe,BMW,2 Series
+Germany,Diesel,Sedan,BMW,7 Series
+Germany,Hybrid,SUV,BMW,X1 Hybrid
+Germany,Petrol,SUV,BMW,X7
+Germany,Electric,SUV,BMW,iX
+Germany,Petrol,Convertible,BMW,Z4
+Germany,Electric,Sedan,BMW,i4
+Germany,Petrol,Coupe,BMW,8 Series
+Germany,Diesel,Wagon,BMW,3 Series Touring
+Germany,Hybrid,SUV,BMW,X6 Hybrid
+Germany,Petrol,SUV,BMW,X4
+Germany,Electric,SUV,BMW,iX3
+Germany,Diesel,Sedan,BMW,6 Series Gran Turismo
+Germany,Petrol,SUV,BMW,X2
+Germany,Hybrid,SUV,BMW,X5 Hybrid
+Germany,Hybrid,Sedan,BMW,3 Series Hybrid
+Germany,Petrol,Hatchback,BMW,2 Series Gran Coupe
+Germany,Electric,SUV,BMW,iX5
+Germany,Petrol,Coupe,BMW,M4
+Germany,Diesel,SUV,BMW,X4
+Germany,Hybrid,SUV,BMW,X3 Hybrid
+Germany,Petrol,Sedan,BMW,5 Series
+Germany,Petrol,Convertible,BMW,4 Series Convertible
+Germany,Diesel,Wagon,BMW,5 Series Touring
+Germany,Electric,Hatchback,BMW,iX1
+Germany,Petrol,Sedan,Mercedes-Benz,C-Class
+Germany,Diesel,SUV,Mercedes-Benz,GLC
+Germany,Hybrid,SUV,Mercedes-Benz,GLC Hybrid
+Germany,Petrol,Coupe,Mercedes-Benz,E-Class Coupe
+Germany,Diesel,Wagon,Mercedes-Benz,E-Class Estate
+Germany,Electric,SUV,Mercedes-Benz,EQS
+Germany,Petrol,Convertible,Mercedes-Benz,S-Class Cabriolet
+Germany,Hybrid,Sedan,Mercedes-Benz,S-Class Hybrid
+Germany,Petrol,SUV,Mercedes-Benz,GLS
+Germany,Electric,Sedan,Mercedes-Benz, EQS
+Germany,Diesel,SUV,Mercedes-Benz,GLA
+Germany,Hybrid,SUV,Mercedes-Benz,GLE Hybrid
+Germany,Petrol,Coupe,Mercedes-Benz,CLA Coupe
+Germany,Diesel,Wagon,Mercedes-Benz,GLC Estate
+Germany,Electric,SUV,Mercedes-Benz,EQG
+Germany,Petrol,Convertible,Mercedes-Benz,SL-Class
+Germany,Hybrid,Sedan,Mercedes-Benz,A-Class Hybrid
+Germany,Petrol,SUV,Mercedes-Benz,GLE
+Germany,Electric,SUV,Mercedes-Benz,EQC
+Germany,Diesel,Sedan,Mercedes-Benz,S-Class
+Germany,Petrol,Sedan,Mercedes-Benz,A-Class
+Germany,Diesel,SUV,Mercedes-Benz,GLB
+Germany,Hybrid,SUV,Mercedes-Benz,GLS Hybrid
+Germany,Petrol,Coupe,Mercedes-Benz,S-Class Coupe
+Germany,Diesel,Wagon,Mercedes-Benz,C-Class Estate
+Germany,Electric,SUV,Mercedes-Benz,EQA
+Germany,Petrol,Convertible,Mercedes-Benz,E-Class Cabriolet
+Germany,Hybrid,Sedan,Mercedes-Benz,C-Class Hybrid
+Germany,Petrol,SUV,Mercedes-Benz,GLB
+Germany,Electric,Sedan,Mercedes-Benz,CLS-Class
+Germany,Diesel,SUV,Mercedes-Benz, GLE Coupe
+Germany,Hybrid,SUV,Mercedes-Benz, GLS Hybrid
+Germany,Petrol,Coupe,Mercedes-Benz, AMG GT
+Germany,Diesel,Wagon,Mercedes-Benz, E-Class All-Terrain
+Germany,Electric,SUV,Mercedes-Benz, EQB
+Germany,Petrol,Convertible,Mercedes-Benz, C-Class Cabriolet
+Germany,Hybrid,Sedan,Mercedes-Benz, E-Class Hybrid
+Germany,Petrol,SUV,Mercedes-Benz, G-Class
+Germany,Electric,SUV,Mercedes-Benz, EQE
+Germany,Diesel,Sedan,Mercedes-Benz, S-Class
+Germany,Petrol,Sedan,Mercedes-Benz,CLA
+Germany,Diesel,SUV,Mercedes-Benz,GLC Coupe
+Germany,Hybrid,SUV,Mercedes-Benz,GLC Hybrid Coupe
+Germany,Petrol,Coupe,Mercedes-Benz,CLS-Class Coupe
+Germany,Diesel,Wagon,Mercedes-Benz,C-Class All-Terrain
+Germany,Electric,SUV,Mercedes-Benz,EQS SUV
+Germany,Petrol,Convertible,Mercedes-Benz,S-Class Cabriolet
+Germany,Hybrid,Sedan,Mercedes-Benz,A-Class Hybrid
+Germany,Petrol,SUV,Mercedes-Benz,GLA
+Germany,Electric,Sedan,Mercedes-Benz,Maybach EQS
+Germany,Diesel,Sedan,Audi,A4
+Germany,Petrol,SUV,Audi,Q5
+Germany,Hybrid,SUV,Audi,Q7 Hybrid
+Germany,Petrol,Coupe,Audi,A5 Coupe
+Germany,Diesel,Wagon,Audi,A6 Avant
+Germany,Electric,SUV,Audi,e-tron
+Germany,Petrol,Convertible,Audi,A3 Cabriolet
+Germany,Hybrid,Sedan,Audi,A6 Hybrid
+Germany,Petrol,SUV,Audi,Q3
+Germany,Electric,Sedan,Audi,e-tron GT
+Germany,Petrol,Sedan,Audi,A6
+Germany,Diesel,SUV,Audi,Q8
+Germany,Hybrid,SUV,Audi,Q5 Hybrid
+Germany,Petrol,Coupe,Audi,TT Coupe
+Germany,Diesel,Wagon,Audi,A4 Allroad
+Germany,Electric,SUV,Audi,Q4 e-tron
+Germany,Petrol,Convertible,Audi,A5 Cabriolet
+Germany,Hybrid,Sedan,Audi,A8 Hybrid
+Germany,Petrol,SUV,Audi,e-tron Sportback
+Germany,Electric,Sedan,Audi,A7 e-tron
+Germany,Petrol,Sedan,Audi,A3
+Germany,Diesel,SUV,Audi,Q7
+Germany,Hybrid,Sedan,Audi,A7 Hybrid
+Germany,Petrol,Coupe,Audi,S5 Coupe
+Germany,Diesel,Wagon,Audi,A6 Allroad
+Germany,Electric,SUV,Audi,e-tron S
+Germany,Petrol,Convertible,Audi,A4 Cabriolet
+Germany,Hybrid,SUV,Audi,Q3 Hybrid
+Germany,Petrol,SUV,Audi,A1
+Germany,Electric,Sedan,Audi,e-tron GT
+Germany,Petrol,Sedan,Audi,A8
+Germany,Diesel,SUV,Audi,Q5
+Germany,Hybrid,SUV,Audi,Q8 Hybrid
+Germany,Petrol,Coupe,Audi,S4 Coupe
+Germany,Diesel,Wagon,Audi,A6 Allroad
+Germany,Electric,SUV,Audi,Q4 Sportback e-tron
+Germany,Petrol,Convertible,Audi,TT Roadster
+Germany,Hybrid,Sedan,Audi,A6 Hybrid
+Germany,Petrol,SUV,Audi,A2
+Germany,Electric,Sedan,Audi,A8 e-tron
+Germany,Petrol,Hatchback,Audi,A1 Sportback
+Germany,Diesel,SUV,Audi,e-tron S Sportback
+Germany,Hybrid,SUV,Audi,Q7 Hybrid
+Germany,Petrol,Coupe,Audi,A5 Sportback
+Germany,Diesel,Wagon,Audi,A6 Avant
+Germany,Electric,SUV,Audi,Q2 e-tron
+Germany,Petrol,Convertible,Audi,S3 Cabriolet
+Germany,Hybrid,Sedan,Audi,A8 Hybrid
+Germany,Petrol,SUV,Audi,RS Q8
+Germany,Electric,Sedan,Audi,A9 e-tron
+Germany,Petrol,Sports Car,Porsche,911
+Germany,Electric,Sports Car,Porsche,Taycan
+Germany,Petrol,SUV,Porsche,Cayenne
+Germany,Hybrid,SUV,Porsche,Cayenne E-Hybrid
+Germany,Petrol,Coupe,Porsche,718 Cayman
+Germany,Electric,SUV,Porsche,Macan Electric
+Germany,Petrol,Convertible,Porsche,718 Boxster
+Germany,Hybrid,Sports Car,Porsche,911 Turbo S E-Hybrid
+Germany,Petrol,Sedan,Porsche,Panamera
+Germany,Electric,Sedan,Porsche,Taycan Cross Turismo
+Sweden,Diesel,SUV,Volvo,XC90
+Sweden,Petrol,SUV,Volvo,XC60
+Sweden,Hybrid,SUV,Volvo,XC40 Recharge
+Sweden,Petrol,Sedan,Volvo,S60
+Sweden,Electric,SUV,Volvo,C40 Recharge
+Sweden,Petrol,Station Wagon,Volvo,V60 Cross Country
+Sweden,Hybrid,Sedan,Volvo,S90 Recharge
+Sweden,Petrol,Hatchback,Volvo,V40
+Sweden,Electric,Sedan,Volvo,XC60 Recharge
+Sweden,Diesel,Station Wagon,Volvo,V90
+Italy,Petrol,Sports Car,Ferrari,488 GTB
+Italy,Petrol,Sports Car,Ferrari,812 Superfast
+Italy,Petrol,Sports Car,Ferrari,Portofino
+Italy,Petrol,Sports Car,Ferrari,F8 Tributo
+Italy,Petrol,Sports Car,Ferrari,458 Italia
+Italy,Petrol,Sports Car,Ferrari,488 Pista
+Italy,Petrol,Sports Car,Ferrari,Roma
+Italy,Petrol,Sports Car,Ferrari,California T
+Italy,Petrol,Sports Car,Ferrari,LaFerrari
+Italy,Petrol,Sports Car,Ferrari,Enzo Ferrari
+Italy,Petrol,Sports Car,Ferrari,SF90 Stradale
+Italy,Petrol,Sports Car,Ferrari,488 Pista Spider
+Italy,Petrol,Sports Car,Ferrari,F430
+Italy,Petrol,Sports Car,Ferrari,F12berlinetta
+Italy,Petrol,Sports Car,Ferrari,458 Spider
+Italy,Petrol,Sports Car,Ferrari,F40
+Italy,Petrol,Sports Car,Ferrari,599 GTB Fiorano
+Italy,Petrol,Sports Car,Ferrari,F355
+Italy,Petrol,Sports Car,Ferrari,360 Modena
+Italy,Petrol,Sports Car,Ferrari,Testarossa
+Italy,Petrol,Sports Car,Lamborghini,Aventador
+Italy,Petrol,Sports Car,Lamborghini,Huracán
+Italy,Petrol,Sports Car,Lamborghini,Urus
+Italy,Petrol,Sports Car,Lamborghini,Gallardo
+Italy,Petrol,Sports Car,Lamborghini,Murciélago
+Italy,Petrol,Sports Car,Lamborghini,Diablo
+Italy,Petrol,Sports Car,Lamborghini,Countach
+Italy,Petrol,Sports Car,Lamborghini,Reventón
+Italy,Petrol,Sports Car,Lamborghini,Centenario
+Italy,Petrol,Sports Car,Lamborghini,Sián FKP 37
+USA,Electric,Sedan,Tesla,Model S
+USA,Electric,Sedan,Tesla,Model 3
+USA,Electric,SUV,Tesla,Model X
+USA,Electric,SUV,Tesla,Model Y
+USA,Electric,Sedan,Tesla,Model S Plaid
+USA,Electric,Sedan,Tesla,Model 3 Long Range
+USA,Electric,SUV,Tesla,Model X Plaid
+USA,Electric,SUV,Tesla,Model Y Long Range
+USA,Electric,Sedan,Tesla,Model S Long Range
+USA,Electric,Sedan,Tesla,Model 3 Performance
+India,Diesel,SUV,Tata,Harrier
+India,Petrol,Hatchback,Tata,Altroz
+India,Diesel,SUV,Tata,Nexon
+India,Petrol,Sedan,Tata,Tigor
+India,Diesel,Sedan,Tata,Tiago
+India,Electric,SUV,Tata,Nexon EV
+India,Petrol,SUV,Tata,Safari
+India,Diesel,Pickup,Tata,Xenon
+India,Petrol,Hatchback,Tata,Punch
+India,Electric,Sedan,Tata,Tigor EV
+India,Petrol,Hatchback,Tata,Tiago
+India,Diesel,Sedan,Tata,Zest
+India,Petrol,SUV,Tata,Nexon
+India,Electric,Hatchback,Tata,Altroz EV
+India,Petrol,SUV,Tata,Harrier
+India,Diesel,Pickup,Tata,Xenon
+India,Petrol,Hatchback,Tata,Altroz
+India,Diesel,SUV,Tata,Safari
+India,Petrol,Sedan,Tata,Tigor
+India,Electric,SUV,Tata,Gravitas EV
+India,Diesel,SUV,Mahindra,Scorpio
+India,Diesel,SUV,Mahindra,XUV500
+India,Diesel,SUV,Mahindra,Thar
+India,Diesel,SUV,Mahindra,Bolero
+India,Diesel,SUV,Mahindra,TUV300
+India,Electric,SUV,Mahindra,eKUV100
+India,Diesel,Truck,Mahindra,Bolero Pickup
+India,Diesel,SUV,Mahindra,XUV300
+India,Petrol,Hatchback,Mahindra,KUV100 NXT
+India,Diesel,SUV,Mahindra,Marazzo
+India,Diesel,Truck,Mahindra,Scorpio Pik-Up
+India,Diesel,Truck,Mahindra,Bolero Camper
+India,Diesel,SUV,Mahindra,XUV700
+India,Diesel,SUV,Mahindra,Alturas G4
+India,Diesel,Truck,Mahindra,Thar 2020
+India,Electric,SUV,Mahindra,XUV300 Electric
+India,Diesel,Truck,Mahindra,Bolero Maxitruck Plus
+India,Petrol,Hatchback,Mahindra,e2o Plus
+India,Diesel,Truck,Mahindra,Supro Minitruck
+India,Diesel,Truck,Mahindra,Supro Maxitruck
+Japan,Petrol,Sports Car,Nissan,GT-R35
+Japan,Petrol,Sports Car,Nissan,GT-R34
+Japan,Petrol,Sports Car,Nissan,GT-R32
+Japan,Petrol,Sports Car,Nissan,GT-R33
+Japan,Petrol,Sedan,Nissan,Skyline
+Japan,Petrol,Hatchback,Nissan,Pulsar
+Japan,Diesel,SUV,Nissan,Qashqai
+Japan,Petrol,Sedan,Nissan,Teana
+Japan,Electric,Hatchback,Nissan,Note e-Power
+Japan,Petrol,SUV,Nissan,X-Trail
+Japan,Petrol,Hatchback,Suzuki,Swift
+Japan,Petrol,SUV,Suzuki,Vitara
+Japan,Petrol,Sedan,Suzuki,Ciaz
+Japan,Petrol,Hatchback,Suzuki,Baleno
+Japan,Diesel,SUV,Suzuki,S-Cross
+Japan,Petrol,Hatchback,Suzuki,Ignis
+Japan,Petrol,Sedan,Suzuki,Dzire
+Japan,Petrol,Hatchback,Suzuki,Celerio
+Japan,Diesel,Hatchback,Suzuki,Baleno
+Japan,Petrol,Hatchback,Suzuki,S-Presso
+Japan,Petrol,SUV,Suzuki,Jimny
+Japan,Petrol,Hatchback,Suzuki,Alto
+Japan,Petrol,SUV,Suzuki,Escudo
+Japan,Petrol,Hatchback,Suzuki,Wagon R
+Japan,Petrol,Sedan,Suzuki,Baleno
+Japan,Diesel,SUV,Suzuki,Grand Vitara
+Japan,Petrol,Hatchback,Suzuki,Splash
+Japan,Petrol,Sedan,Suzuki,Kizashi
+Japan,Petrol,Hatchback,Suzuki,Swift Sport
+Japan,Petrol,SUV,Suzuki,Ignis
+USA,Petrol,SUV,Jeep,Wrangler
+USA,Petrol,SUV,Jeep,Grand Cherokee
+USA,Petrol,SUV,Jeep,Cherokee
+USA,Petrol,SUV,Jeep,Compass
+USA,Diesel,SUV,Jeep,Renegade
+USA,Petrol,SUV,Jeep,Commander
+USA,Petrol,SUV,Jeep,Liberty
+USA,Petrol,SUV,Jeep,Gladiator
+USA,Petrol,SUV,Jeep,Grand Wagoneer
+USA,Petrol,SUV,Jeep,Wagoneer
+China,Electric,Sedan,BYD,Tang
+China,Electric,SUV,BYD,Han
+China,Electric,Sedan,BYD,Yuan
+China,Electric,Hatchback,BYD, Qin
+China,Electric,SUV,BYD, Song
+China,Electric,SUV,BYD,Tang EV
+China,Electric,Sedan,BYD, e6
+China,Electric,Hatchback,BYD, e2
+China,Electric,Van,BYD, e5
+China,Electric,SUV,BYD,Tang 600
+UK,Petrol,SUV,MG,ZS
+UK,Electric,SUV,MG,ZS EV
+UK,Petrol,Hatchback,MG,MG3
+UK,Petrol,SUV,MG,HS
+UK,Petrol,Sedan,MG,5
+UK,Electric,Hatchback,MG,MG5 EV
+UK,Petrol,SUV,MG,ZS EV
+UK,Petrol,Sedan,MG,MG6
+UK,Electric,SUV,MG,Marvel R Electric
+UK,Petrol,Hatchback,MG,MG3 2021
+UK,Petrol,SUV,MG,EZS
+UK,Electric,SUV,MG,Marvel X Electric
+UK,Petrol,Hatchback,MG,MG3 Xross
+UK,Petrol,SUV,MG,MG One
+UK,Petrol,Sedan,MG,7
+UK,Electric,Hatchback,MG,Cyberster
+UK,Petrol,SUV,MG,GS
+UK,Petrol,Sedan,MG,6 Plug-in Hybrid
+UK,Electric,SUV,MG,Marvel R Electric
+UK,Petrol,Hatchback,MG,3 Trophy
+USA,Petrol,Sedan,Chevrolet,Malibu
+USA,Petrol,SUV,Chevrolet,Traverse
+USA,Petrol,SUV,Chevrolet,Equinox
+USA,Petrol,SUV,Chevrolet,Tahoe
+USA,Petrol,SUV,Chevrolet,Suburban
+USA,Petrol,Sedan,Chevrolet,Cruze
+USA,Electric,Sedan,Chevrolet,Bolt EV
+USA,Petrol,Truck,Chevrolet,Silverado
+USA,Petrol,SUV,Chevrolet,Blazer
+USA,Petrol,SUV,Chevrolet,Trailblazer
+USA,Petrol,SUV,Chevrolet,Colorado
+USA,Petrol,SUV,Chevrolet,Trax
+USA,Petrol,Truck,Chevrolet,Cheyenne
+USA,Petrol,Sedan,Chevrolet,Impala
+USA,Petrol,SUV,Chevrolet,Avalanche
+USA,Petrol,SUV,Chevrolet,Tracker
+USA,Petrol,Truck,Chevrolet,S-10
+USA,Petrol,Truck,Chevrolet,Apache
+USA,Petrol,SUV,Chevrolet,Captiva
+USA,Petrol,SUV,Chevrolet,Uplander
+USA,Petrol,Truck,Chevrolet,C10
+USA,Petrol,SUV,Chevrolet,Orlando
+USA,Petrol,Sedan,Chevrolet,Sonic
+USA,Petrol,Truck,Chevrolet,Silverado HD
+USA,Petrol,Truck,Chevrolet,Avalanche
+USA,Petrol,Truck,Chevrolet,Camaro SS
+USA,Petrol,Sedan,Chevrolet,Cobalt
+USA,Petrol,Truck,Chevrolet,Express
+USA,Petrol,SUV,Chevrolet,Equinox LT
+USA,Petrol,SUV,Chevrolet,Blazer RS
+USA,Petrol,Truck,Chevrolet,Trailblazer SS
+USA,Petrol,SUV,Chevrolet,Suburban LT
+USA,Petrol,Truck,Chevrolet,Silverado Trail Boss
+USA,Petrol,Sedan,Chevrolet,Cruze LT
+USA,Petrol,Truck,Chevrolet,Silverado High Country
+USA,Petrol,SUV,Chevrolet,Traverse RS
+USA,Petrol,Truck,Chevrolet,Colorado ZR2
+USA,Petrol,SUV,Chevrolet,Tahoe Premier
+USA,Petrol,Truck,Chevrolet,Silverado Custom
+USA,Petrol,Sedan,Dodge,Charger
+USA,Petrol,SUV,Dodge,Durango
+USA,Petrol,Sedan,Dodge,Challenger
+USA,Petrol,Truck,Dodge,RAM
+USA,Petrol,SUV,Dodge,Journey
+USA,Petrol,Sedan,Dodge,Avenger
+USA,Petrol,Truck,Dodge,Dakota
+USA,Petrol,SUV,Dodge,Nitro
+USA,Petrol,Truck,Dodge,RAM 1500
+USA,Petrol,Sedan,Dodge,Neon
+USA,Petrol,Truck,Dodge,RAM 2500
+USA,Petrol,SUV,Dodge,Caravan
+USA,Petrol,Truck,Dodge,RAM 3500
+USA,Petrol,Sedan,Dodge,Caliber
+USA,Petrol,Truck,Dodge,RAM 4500
+USA,Petrol,Truck,Dodge,RAM 5500
+USA,Petrol,Sedan,Dodge,Intrepid
+USA,Petrol,SUV,Dodge,Grand Caravan
+USA,Petrol,SUV,Dodge,Journey RT
+USA,Petrol,Sedan,Dodge,Dart
+USA,Petrol,Truck,Dodge,RAM 6500
+USA,Petrol,Truck,Dodge,RAM 7500
+USA,Petrol,Sedan,Dodge,Stratus
+USA,Petrol,Truck,Dodge,RAM 8500
+USA,Petrol,SUV,Dodge,Durango SRT
+USA,Petrol,Truck,Dodge,RAM 1500 Classic
+USA,Petrol,Truck,Dodge,RAM 2500 Power Wagon
+USA,Petrol,SUV,Dodge,Charger SRT
+USA,Petrol,Sedan,Dodge,Avenger RT
+USA,Petrol,Truck,Dodge,RAM 3500 HD
+USA,Petrol,SUV,Dodge,Nitro SXT
+USA,Petrol,Truck,Dodge,RAM 4500 Chassis Cab
+USA,Petrol,Sedan,Dodge,Challenger SRT
+USA,Petrol,Truck,Dodge,RAM 5500 Chassis Cab
+USA,Petrol,SUV,Dodge,Durango GT
+USA,Petrol,Truck,Dodge,RAM 6500 Chassis Cab
+USA,Petrol,Sedan,Dodge,Neon SRT
+USA,Petrol,Truck,Dodge,RAM 7500 Chassis Cab
+USA,Petrol,SUV,Dodge,Caravan SXT
+USA,Petrol,Truck,Dodge,RAM 8500 Chassis Cab
+USA,Petrol,SUV,Dodge,Durango R/T
+USA,Petrol,Truck,Dodge,RAM 1500 Rebel
+USA,Petrol,Sedan,Dodge,Charger RT
+USA,Petrol,Truck,Dodge,RAM 2500 Laramie
+USA,Petrol,SUV,Dodge,Journey GT
+USA,Petrol,Truck,Dodge,RAM 3500 Tradesman
+USA,Petrol,SUV,Dodge,Durango Citadel
+Germany,Petrol,Sedan,Volkswagen,Jetta
+Germany,Petrol,Hatchback,Volkswagen,Golf
+Germany,Diesel,SUV,Volkswagen,Tiguan
+Germany,Petrol,SUV,Volkswagen,Touareg
+Germany,Petrol,Hatchback,Volkswagen,Up
+Germany,Diesel,Sedan,Volkswagen,Passat
+Germany,Petrol,Convertible,Volkswagen,Beetle
+Germany,Diesel,Station Wagon,Volkswagen,Golf Variant
+Germany,Electric,Hatchback,Volkswagen,ID.3
+Germany,Petrol,SUV,Volkswagen,T-Cross
+Germany,Petrol,Convertible,Volkswagen,T-Roc Cabriolet
+Germany,Petrol,Sedan,Volkswagen,Arteon
+Germany,Petrol,SUV,Volkswagen,ID.4
+Germany,Electric,Hatchback,Volkswagen,Golf ID.4
+Germany,Petrol,Sedan,Volkswagen,Phaeton
+Germany,Petrol,Hatchback,Volkswagen,Scirocco
+Germany,Petrol,Sedan,Volkswagen,Passat CC
+Germany,Petrol,Convertible,Volkswagen,Eos
+Germany,Petrol,Sedan,Volkswagen,CC
+Germany,Diesel,SUV,Volkswagen,Touareg R
+Germany,Petrol,SUV,Volkswagen,Tiguan Allspace
+Germany,Petrol,Convertible,Volkswagen,Beetle Cabriolet
+Germany,Electric,Hatchback,Volkswagen,Up ID.3
+Germany,Petrol,SUV,Volkswagen,T-Roc
+Germany,Diesel,Station Wagon,Volkswagen,Golf Variant R
+Germany,Electric,Hatchback,Volkswagen,Golf ID.4 R
+Germany,Petrol,Sedan,Volkswagen,Passat R
+Germany,Petrol,Hatchback,Volkswagen,Golf GTI
+Germany,Diesel,SUV,Volkswagen,Tiguan R
+Germany,Petrol,SUV,Volkswagen,Touareg V8
+Germany,Petrol,Hatchback,Volkswagen,Up GTI
+Germany,Petrol,Convertible,Volkswagen,T-Roc R
+Germany,Petrol,Sedan,Volkswagen,Arteon R
+Germany,Petrol,SUV,Volkswagen,T-Cross R
+Germany,Petrol,Sedan,Volkswagen,Passat GT
+Germany,Petrol,Hatchback,Volkswagen,Golf R
+Germany,Diesel,SUV,Volkswagen,Touareg R-Line
+Germany,Petrol,SUV,Volkswagen,Tiguan R-Line
+Germany,Petrol,Hatchback,Volkswagen,Up R-Line
+Germany,Electric,Hatchback,Volkswagen,Up ID.3 R-Line
+Germany,Petrol,SUV,Volkswagen,T-Roc R-Line
+Germany,Electric,Hatchback,Volkswagen,Golf ID.4 R-Line
+Germany,Petrol,Sedan,Volkswagen,Passat R-Line
+Germany,Petrol,Hatchback,Volkswagen,Golf GTI Clubsport
+Germany,Diesel,SUV,Volkswagen,Tiguan R-Line
+Germany,Petrol,SUV,Volkswagen,Touareg Black Edition
+USA,Petrol,SUV,Ford,Escape
+USA,Petrol,SUV,Ford,Explorer
+USA,Petrol,SUV,Ford,Expedition
+USA,Petrol,Truck,Ford,F-150
+USA,Petrol,Sedan,Ford,Fusion
+USA,Petrol,Hatchback,Ford,Fiesta
+USA,Petrol,Truck,Ford,Ranger
+USA,Petrol,SUV,Ford,EcoSport
+USA,Petrol,SUV,Ford,Edge
+USA,Petrol,Sedan,Ford,Taurus
+USA,Petrol,Truck,Ford,Super Duty
+USA,Petrol,SUV,Ford,Maverick
+USA,Petrol,Sedan,Ford,Focus
+USA,Petrol,SUV,Ford,Bronco Sport
+USA,Petrol,SUV,Ford,Bronco
+USA,Petrol,Sedan,Ford,Escort
+USA,Petrol,Truck,Ford,F-250
+USA,Petrol,Hatchback,Ford,Fusion
+USA,Petrol,Truck,Ford,F-350
+USA,Petrol,SUV,Ford,Excursion
+USA,Petrol,Truck,Ford,F-450
+USA,Petrol,SUV,Ford,Endeavour
+USA,Petrol,Sedan,Ford,Fiesta
+USA,Petrol,Truck,Ford,F-550
+USA,Petrol,SUV,Ford,Edge ST
+USA,Petrol,SUV,Ford,Escape ST
+USA,Petrol,Truck,Ford,F-650
+USA,Petrol,SUV,Ford,Explorer ST
+USA,Petrol,SUV,Ford,Expedition Max
+USA,Petrol,Truck,Ford,Ranger Raptor
+USA,Petrol,SUV,Ford,EcoSport ST
+USA,Petrol,Sedan,Ford,Focus ST
+USA,Petrol,Truck,Ford,Super Duty F-250
+USA,Petrol,SUV,Ford,Bronco Raptor
+USA,Petrol,SUV,Ford,Mustang Mach-E
+USA,Petrol,Sedan,Ford,Fusion ST
+USA,Petrol,Truck,Ford,F-350 Super Duty
+USA,Petrol,SUV,Ford,Flex
+USA,Petrol,Truck,Ford,F-450 Super Duty
+USA,Petrol,SUV,Ford,Explorer Timberline
+USA,Petrol,Truck,Ford,F-650 Super Duty
+USA,Petrol,SUV,Ford,Explorer Platinum
+USA,Petrol,SUV,Ford,Expedition ST
+USA,Petrol,Truck,Ford,Ranger Tremor
+USA,Petrol,SUV,Ford,Endeavour Sport
+USA,Petrol,Sedan,Ford,Focus RS
+USA,Petrol,Truck,Ford,Super Duty F-350
+
+
